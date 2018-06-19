@@ -17,8 +17,6 @@ def long_planeteer_calls(array)
     word.length > 4
   end
 end
-
-def find_the_cheese(array)
   
   def find_the_cheese(array)
   array.find do |cheese| 
