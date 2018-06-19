@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarves)
-  dwarves.each do |dwarve|
-    puts dwarve
+  dwarves.each do |index, dwarve|
+    puts idex dwarve
   end
 end
 
